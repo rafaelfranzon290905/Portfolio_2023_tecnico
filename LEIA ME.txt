@@ -1,0 +1,1 @@
+Pastas não podem ser compartilhadas pelo teams na entrega de atividades. Por isso, a imagem do Portfófio veio solta. Para botá-la para funcionar, coloque a em uma pasta "assets" junto dos outros arquivos para que o site possa ler.
