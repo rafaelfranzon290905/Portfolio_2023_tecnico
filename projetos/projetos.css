@@ -84,3 +84,12 @@ img{
     border-radius: 15%;
     
 }
+
+p{
+    width: 20vw;
+    height: 20vh;
+    border: 5px rgb(0, 0, 0) solid;
+    border-radius: 15%;
+    padding: 10px;
+    background-color: darkseagreen;
+}
